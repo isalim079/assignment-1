@@ -166,7 +166,8 @@
     line-height: 30px;
     padding: 20px 0px 30px 0px;
 }
-.signup{
+
+.signup {
     color: #FFF;
     font-size: 15px;
     font-weight: 700;
@@ -175,17 +176,60 @@
     padding: 15px 30px;
     border-style: none;
 }
-.signup-btn{
+
+.signup-btn {
     margin-left: 190px;
 }
-.hot-deal-text-container{
+
+.hot-deal-text-container {
     width: 500px;
     margin: auto;
 }
-.hot-deal-rose{
+
+.hot-deal-rose {
     width: 75%;
 }
-.hot-deal-image{
+
+.hot-deal-image {
     margin-right: 150px;
 }
+
 /* Hot Deal Section Completed */
+
+.insta-title {
+    color: #272727;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.insta-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 25px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.insta-image{
+    margin-bottom: 100px;
+}
+.insta-flower-1{
+    width: 18%;
+    margin-left: 170px;
+}
+.insta-flower-2{
+    width: 18%;
+    margin: 0px 15px;
+}
+.insta-flower-3{
+    width: 18%;
+    margin: 0px 15px;
+}
+.insta-flower-4{
+    width: 18%;
+    margin-right: 110px;
+}
+
+/* Instagram section completed */
