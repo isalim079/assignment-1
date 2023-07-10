@@ -1,0 +1,49 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+}
+
+/* header section styles */
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: rgba(229, 84, 115, 0.10);
+}
+/* header title and text */
+.header-text-title {
+    color: #272727;
+    font-size: 60px;
+    font-weight: 900;
+}
+
+.text-button-container {
+    width: 520px;
+    padding-left: 120px;
+}
+
+.header-text-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 25px 0px;
+}
+/* shop now button */
+.shop-btn {
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 15px 30px;
+    border-style: none;
+}
+/* Header red flower */
+.header-flower {
+    width: 80%;
+    height: 80%;
+    margin-top: 40px;
+}
