@@ -58,22 +58,25 @@
     margin-top: 170px;
     margin-bottom: 45px;
 }
+
 .featured-text-title {
     color: #272727;
     text-align: center;
-    font-size: 40px;
+    font-size: 35px;
     font-weight: 800;
-    margin-bottom: 25px;
+    margin-bottom: 20px;
 }
+
 .featured-text-description {
     color: rgba(39, 39, 39, 0.60);
     text-align: center;
-    font-size: 18px;
+    font-size: 16px;
     font-weight: 400;
     line-height: 30px;
     width: 550px;
     margin: auto;
 }
+
 /* Featured Flower Section */
 
 .featured-flower-containers {
@@ -82,38 +85,45 @@
     justify-content: space-around;
     padding: 0px 260px;
 }
+
 .left-flower {
     background: rgba(167, 33, 98, 0.15);
     border-radius: 300px 300px 0px 0px;
     width: 300px;
 }
+
 .middle-flower {
     background: rgba(5, 151, 160, 0.15);
     border-radius: 300px 300px 0px 0px;
     width: 300px;
 }
+
 .right-flower {
     background: rgba(167, 33, 98, 0.15);
     border-radius: 300px 300px 0px 0px;
     width: 300px;
     margin-top: 5px;
 }
+
 .featured-flower-1 {
     width: 67%;
     margin-top: 115px;
     margin-left: 55px;
 }
+
 .featured-flower-2 {
     width: 72%;
     margin-top: 148px;
     margin-left: 50px;
     padding-bottom: 30px;
 }
+
 .featured-flower-3 {
     width: 60%;
     margin-top: 120px;
     margin-left: 60px;
 }
+
 .featured-flower-caption {
     color: #272727;
     text-align: center;
@@ -121,3 +131,61 @@
     font-weight: 700;
     padding-top: 20px;
 }
+
+.featured-container {
+    margin-bottom: 120px;
+}
+
+/* Hot Deal Section */
+
+.hot-deal-containers {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 100px;
+    margin-bottom: 100px;
+}
+
+.hot-deal-title {
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+    margin-left: 50px;
+}
+
+.off {
+    color: #E55473;
+}
+
+.hot-deal-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 20px 0px 30px 0px;
+}
+.signup{
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 15px 30px;
+    border-style: none;
+}
+.signup-btn{
+    margin-left: 190px;
+}
+.hot-deal-text-container{
+    width: 500px;
+    margin: auto;
+}
+.hot-deal-rose{
+    width: 75%;
+}
+.hot-deal-image{
+    margin-right: 150px;
+}
+/* Hot Deal Section Completed */
