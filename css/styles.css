@@ -233,3 +233,50 @@
 }
 
 /* Instagram section completed */
+
+.deals-container{
+    background-image: url('../image/Rectangle\ 9.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 78%;
+    margin-left: 160px;
+}
+.deals-container-title{
+    display: flex;
+    justify-content: center;
+    margin-right: 400px;
+    padding-top: 100px;
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+}
+.deals-container-caption{
+    display: flex;
+    justify-content: center;
+    margin-right: 400px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 15px;
+}
+.subscribe{
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 15px 30px;
+    border-style: none;
+}
+.email-field{
+    padding: 17px;
+    border-radius: 8px;
+    border-style: none;
+    margin-right: 10px;
+}
+.sub-btn{
+    margin-left: 230px;
+    margin-top: 40px;
+}
+/* Latest Deals section completed */
