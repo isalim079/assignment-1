@@ -212,29 +212,34 @@
     padding-top: 20px;
     padding-bottom: 40px;
 }
-.insta-image{
+
+.insta-image {
     margin-bottom: 100px;
 }
-.insta-flower-1{
+
+.insta-flower-1 {
     width: 18%;
     margin-left: 170px;
 }
-.insta-flower-2{
+
+.insta-flower-2 {
     width: 18%;
     margin: 0px 15px;
 }
-.insta-flower-3{
+
+.insta-flower-3 {
     width: 18%;
     margin: 0px 15px;
 }
-.insta-flower-4{
+
+.insta-flower-4 {
     width: 18%;
     margin-right: 110px;
 }
 
 /* Instagram section completed */
 
-.deals-container{
+.deals-container {
     background-image: url('../image/Rectangle\ 9.png');
     height: 100vh;
     background-repeat: no-repeat;
@@ -242,7 +247,8 @@
     background-size: 78%;
     margin-left: 160px;
 }
-.deals-container-title{
+
+.deals-container-title {
     display: flex;
     justify-content: center;
     margin-right: 400px;
@@ -251,7 +257,8 @@
     font-size: 30px;
     font-weight: 800;
 }
-.deals-container-caption{
+
+.deals-container-caption {
     display: flex;
     justify-content: center;
     margin-right: 400px;
@@ -260,7 +267,8 @@
     font-weight: 400;
     margin-top: 15px;
 }
-.subscribe{
+
+.subscribe {
     color: #FFF;
     font-size: 15px;
     font-weight: 700;
@@ -269,19 +277,22 @@
     padding: 15px 30px;
     border-style: none;
 }
-.email-field{
+
+.email-field {
     padding: 17px;
     border-radius: 8px;
     border-style: none;
     margin-right: 10px;
 }
-.sub-btn{
+
+.sub-btn {
     margin-left: 230px;
     margin-top: 40px;
 }
+
 /* Latest Deals section completed */
 
-.bonus-section{
+.bonus-section {
     text-align: center;
     margin-top: -200px;
     background-color: blanchedalmond;
@@ -295,7 +306,8 @@
     border-radius: 25px;
     box-shadow: 20px 20px 25px rgb(221, 221, 221);
 }
-.bonus-button{
+
+.bonus-button {
     color: #FFF;
     font-size: 15px;
     font-weight: 700;
@@ -308,19 +320,56 @@
     margin-top: 40px;
     margin-bottom: 100px;
 }
-.bonus-description{
+
+.bonus-description {
     color: rgba(39, 39, 39, 0.60);
     font-size: 15px;
     font-weight: 400;
     margin-top: 10px;
 }
-.bonus-title{
+
+.bonus-title {
     padding-top: 100px;
     color: #272727;
     font-size: 50px;
     font-weight: 600;
 }
-.promo{
+
+.promo {
     font-size: large;
-    padding-top: 5px;
 }
+
+/* Bonus section Completed */
+.footer-container {
+    text-align: center;
+    background-color: #111010;
+    padding: 140px 0px;
+}
+
+.footer-title {
+    color: white;
+    font-size: 40px;
+    font-weight: 800;
+    margin-bottom: 20px;
+    margin-top: -25px;
+}
+
+.footer-red {
+    color: #E55473;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 300;
+    margin-bottom: 20px;
+}
+
+.credit {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 13px;
+    font-weight: 200;
+}
+/* Footer Section Done */
